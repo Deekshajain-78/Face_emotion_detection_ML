@@ -1,0 +1,18 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+scikit-learn
+
+
+images                              label
+images/angry/deeksha.png            angry
+images/angry/d.png                  angry
+images/sad/deeksha.png              sad
+images/sad/deeksha2.png             sad
+
+load_img(img,grayscale=True)
